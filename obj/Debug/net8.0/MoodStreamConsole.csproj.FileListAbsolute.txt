@@ -1,0 +1,14 @@
+C:\Users\Madhu Sai Sree\OneDrive\Desktop\MoodStreamConsole\MoodStreamConsole\bin\Debug\net8.0\MoodStreamConsole.exe
+C:\Users\Madhu Sai Sree\OneDrive\Desktop\MoodStreamConsole\MoodStreamConsole\bin\Debug\net8.0\MoodStreamConsole.deps.json
+C:\Users\Madhu Sai Sree\OneDrive\Desktop\MoodStreamConsole\MoodStreamConsole\bin\Debug\net8.0\MoodStreamConsole.runtimeconfig.json
+C:\Users\Madhu Sai Sree\OneDrive\Desktop\MoodStreamConsole\MoodStreamConsole\bin\Debug\net8.0\MoodStreamConsole.dll
+C:\Users\Madhu Sai Sree\OneDrive\Desktop\MoodStreamConsole\MoodStreamConsole\bin\Debug\net8.0\MoodStreamConsole.pdb
+C:\Users\Madhu Sai Sree\OneDrive\Desktop\MoodStreamConsole\MoodStreamConsole\obj\Debug\net8.0\MoodStreamConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madhu Sai Sree\OneDrive\Desktop\MoodStreamConsole\MoodStreamConsole\obj\Debug\net8.0\MoodStreamConsole.AssemblyInfoInputs.cache
+C:\Users\Madhu Sai Sree\OneDrive\Desktop\MoodStreamConsole\MoodStreamConsole\obj\Debug\net8.0\MoodStreamConsole.AssemblyInfo.cs
+C:\Users\Madhu Sai Sree\OneDrive\Desktop\MoodStreamConsole\MoodStreamConsole\obj\Debug\net8.0\MoodStreamConsole.csproj.CoreCompileInputs.cache
+C:\Users\Madhu Sai Sree\OneDrive\Desktop\MoodStreamConsole\MoodStreamConsole\obj\Debug\net8.0\MoodStreamConsole.dll
+C:\Users\Madhu Sai Sree\OneDrive\Desktop\MoodStreamConsole\MoodStreamConsole\obj\Debug\net8.0\refint\MoodStreamConsole.dll
+C:\Users\Madhu Sai Sree\OneDrive\Desktop\MoodStreamConsole\MoodStreamConsole\obj\Debug\net8.0\MoodStreamConsole.pdb
+C:\Users\Madhu Sai Sree\OneDrive\Desktop\MoodStreamConsole\MoodStreamConsole\obj\Debug\net8.0\MoodStreamConsole.genruntimeconfig.cache
+C:\Users\Madhu Sai Sree\OneDrive\Desktop\MoodStreamConsole\MoodStreamConsole\obj\Debug\net8.0\ref\MoodStreamConsole.dll
