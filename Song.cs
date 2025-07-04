@@ -2,7 +2,7 @@
 
 namespace MoodStreamConsole
 {
-    public class song
+    public class Song
     {
         static void Main()
         {
