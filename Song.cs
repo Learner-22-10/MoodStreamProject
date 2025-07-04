@@ -37,39 +37,15 @@ namespace MoodStreamConsole
                 {
                     Console.WriteLine(moodSongs[mood.ToLower()]);
                 }
-                else 
+                else if(mood.ToLower() == "exit")
                 {
                     Console.WriteLine("Good bye !, See you later ");
                 }
+                else
+                {
+                    Console.WriteLine("Please enter a valid mood from the list ");
+                }
             }
-            //static void MoodStream(string mood)
-            //{
-            //    switch (mood)
-            //    {
-            //        case "1":
-            //        case "happy":
-            //            Console.WriteLine("Playing fevicol se");
-            //            break;
-            //        case "2":
-            //        case "sad":
-            //            Console.WriteLine("Playing heatbreak anniversary");
-            //            break;
-            //        case "3":
-            //        case "angry":
-            //            Console.WriteLine("playing narudi bathuku natana");
-            //            break;
-            //        case "4":
-            //        case "sleepy":
-            //            Console.WriteLine("playing adhire hrudayam");
-            //            break;
-            //        case "exit":
-            //            Console.WriteLine("Good bye! See you next time");
-            //            break;
-            //        default:
-            //            Console.WriteLine("Enter valid mood");
-            //            break;
-            //    }
-            //} 
         }
     }
 }
